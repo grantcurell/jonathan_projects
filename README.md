@@ -15,7 +15,8 @@
 
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/
+- Compita Security +
+- Valid DoD Clearance
 
 <h2> 🤳 Connect with me:</h2>
 
