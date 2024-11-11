@@ -7,11 +7,10 @@
   
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [RKE2 Cluster Deployment Lab](https://github.com/FXVIII/projects/tree/25213aeca404da3f5e49d4a804490d092342a765/project_1)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [RHEL CAT I Vulnerablities](https://github.com/FXVIII/projects/tree/25213aeca404da3f5e49d4a804490d092342a765/SCAP%20-%20RHEL%208.10%20Remedation%20Practice) <b><i>(Practice)</b></i>
 
+**RKE2 Cluster Deployment Lab** - [[RKE2 Cluster Deployment Lab]](https://github.com/FXVIII/projects/tree/25213aeca404da3f5e49d4a804490d092342a765/project_1)
+
+ **SCAP - RHEL 8.10 Remediation Practice** - [[RHEL CAT I Vulnerabilities]](https://github.com/FXVIII/projects/tree/25213aeca404da3f5e49d4a804490d092342a765/SCAP%20-%20RHEL%208.10%20Remedation%20Practice) ***(Practice)***
 
 <h2>📺 Certifications</h2>
 
