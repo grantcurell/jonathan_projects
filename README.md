@@ -1,27 +1,25 @@
-<h1>Hi, I'm Jonathan! <br/>Cybersecurity Analyst | Engineer</a> <br />
-</a>Windows Systems Administrator<br />
-</a>Programmer<br />
+# Jonathan Katz
 
-<h2>👨‍💻 About Me</h2>
-- <b>I'm a U.S. Marine Corps veteran specializing in cybersecurity analysis and engineering, with strong proficiency in Windows administration and DevOps. My experience includes vulnerability management using tools like Nessus and Security Center, as well as expertise in Group Policy (GPO) implementation, Microsoft Endpoint Configuration Manager (MECM), and DevOps practices for streamlined security operations. I am also well-versed in the Risk Management Framework (RMF) and DISA STIG compliance, bringing a disciplined, solutions-driven approach to securing systems and optimizing network defenses. </b>
-  
+- Cybersecurity Analyst | Engineer
+- Windows Systems Administrator 
+- Programmer
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+## 👨‍💻 About Me
 
-**RKE2 Cluster Deployment Lab** - [[RKE2 Cluster Deployment Lab]](https://github.com/FXVIII/projects/tree/25213aeca404da3f5e49d4a804490d092342a765/project_1)
+I'm a U.S. Marine Corps veteran specializing in cybersecurity analysis and engineering, with strong proficiency in Windows administration and DevOps. My experience includes vulnerability management using tools like Nessus and Security Center, as well as expertise in Group Policy (GPO) implementation, Microsoft Endpoint Configuration Manager (MECM), and DevOps practices for streamlined security operations. I am also well-versed in the Risk Management Framework (RMF) and DISA STIG compliance, bringing a disciplined, solutions-driven approach to securing systems and optimizing network defenses.
 
- **SCAP - RHEL 8.10 Remediation Practice** - [[RHEL CAT I Vulnerabilities]](https://github.com/FXVIII/projects/tree/25213aeca404da3f5e49d4a804490d092342a765/SCAP%20-%20RHEL%208.10%20Remedation%20Practice) ***(Practice)***
+## 👨‍💻 CyberSecurity Projects
 
-<h2>📺 Certifications</h2>
+- **RKE2 Cluster Deployment Lab** - [RKE2 Cluster Deployment Lab](./How%20to%20Build%20RKE2/README.md)
+- **SCAP - Remediating RHEL 8.10 Remediation** - [RHEL CAT I Vulnerabilities](./SCAP%20-%20RHEL%208.10%20Remedation%20Practice/README.md)
 
-- Compita Security +
-- Valid DoD Clearance
+## 📺 Certifications
 
-<h2> 🤳 Connect with me:</h2>
+- CompTIA Security+
+- Current DoD Clearance
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect with me
 
-
-[linkedin]: https://www.linkedin.com/in/jonathan-kat-a04940190/
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg)](https://www.linkedin.com/in/jonathan-kat-a04940190/)
 
 

@@ -72,7 +72,7 @@ I realize after reviewing the report, we didnt use any type of Stig Profile. We 
 
 </aside>
 
-![initial.png](initial.png)
+![initial.png](images/initial.png)
 
 ## Upload Customize STIG Profile
 
@@ -80,7 +80,7 @@ Open WinSCP and copy | paste the `disa-stig-rhel8-v2r1-xccdf-scap.xml` to a know
 
 I pasted it to `/root/rke2-project/scap/CAT I's Only/`
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 ## Dry-Run
 
@@ -123,7 +123,7 @@ Ive ran the remediation and the result is 70% compliant! That makes it easier th
 
 </aside>
 
-![70.png](70.png)
+![70.png](images/70.png)
 
 ### Steps to Enable FIPS Mode on RHEL 8
 
@@ -279,7 +279,7 @@ Looking at what OVAL test results detail’s, this will give us an Idea of what 
 
 </aside>
 
-![image.png](image%201.png)
+![image.png](images/image%201.png)
 
 <aside>
 💡
@@ -288,7 +288,7 @@ Apon further investigation, even though this is what SCAP output, I can confirm 
 
 </aside>
 
-![Screenshot 2024-11-09 154903.png](Screenshot_2024-11-09_154903.png)
+![Screenshot 2024-11-09 154903.png](images/Screenshot_2024-11-09_154903.png)
 
 <aside>
 💡
@@ -297,4 +297,4 @@ Besides FIPS we are compliant with CAT I Vulnerabilities!
 
 </aside>
 
-![final.png](final.png)
+![final.png](images/final.png)
