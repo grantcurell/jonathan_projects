@@ -1,4 +1,4 @@
-# Jonathan Katz
+# Jonathan Kat
 
 - Cybersecurity Analyst | Engineer
 - Windows Systems Administrator 
