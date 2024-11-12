@@ -52,20 +52,20 @@ We need to add a Bridge Adapter so we can allow traffic between both VMs and hav
 
 On your PC, open CMD > Ipconfig and find your Default Gateway.
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 Note the Subnet /24, this will be the network your VMs will be on and we will have to assign them IPs.
 
 Also we need the MAC address of the host’s and put them in replace of the generated MAC addresses inside VirtualBox.
 
-![image.png](image%201.png)
+![image.png](images/image%201.png)
 
 In Each VM:
 
 - Go to Settings > Networking
     - Add another network device `Bridge Adapter` , Also replace the MAC address with your host MAC address for both adapters and Save.
         
-        ![image.png](image%202.png)
+        ![image.png](images/image%202.png)
         
 - Turn on both VMs
 </aside>
@@ -114,7 +114,7 @@ ping 8.8.8.8
 
 Double check that **Automatically Connect** is enabled on both network devices
 
-![This is the Worker VM](image%203.png)
+![This is the Worker VM](images/image%203.png)
 
 This is the Worker VM
 
@@ -133,7 +133,7 @@ nano /etc/ssh/sshd_config
 
 In Both VMs edit the sshd_config. Remove the 4 hashtags exit and save.
 
-![image.png](image%204.png)
+![image.png](images/image%204.png)
 
 Open putty and enter in the IP address of the Master VM and click open.
 
